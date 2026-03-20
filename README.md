@@ -21,4 +21,4 @@
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ## 🔗 Connect with Me
-- GitHub: https://github.com/@CallmeAjb
+- GitHub: https://github.com/callmeAjb
