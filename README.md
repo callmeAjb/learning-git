@@ -1,7 +1,24 @@
-hello... this is Ajb learning his first tutorial on how to access git hub....
-git push to push from your local to where git repository...
-git pull - to pull from git repository to local...
-git add . - to add all existing untracked files to staging...
-git commit -m - to move a file to commit & give a detailed descriptive caption, depicting the obvious update executed.
-git clean -n - to review to delete any existing file in staging...
-git clean -f - to successfully delete the selected file in staging...
+# Hi there 👋, I'm Ahmed
+
+## 🚀 About Me
+- 💻 Frontend Developer
+- 🎯 Strong in HTML & CSS
+- 📚 Currently learning JavaScript
+- 🔥 Passionate about building clean and responsive web apps
+- 📈 Improving daily through practice and projects
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (in progress)
+
+## 📌 Current Focus
+- Mastering JavaScript (functions, arrays, DOM)
+- Building real-world projects
+- Writing cleaner and more efficient code
+
+## 📊 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 🔗 Connect with Me
+- GitHub: https://github.com/@CallmeAjb
